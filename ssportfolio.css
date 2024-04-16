@@ -1,0 +1,134 @@
+.box1 {
+    height: 300px;
+    width: 900px;
+    background-color: transparent;
+    color: black;
+    margin: 100px;
+    text-indent: 50px;
+    font-family: serif;
+    text-overflow: none;
+    /* border-radius: 50px; */
+}
+
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/06/27/85/70/360_F_627857017_5r2FsJYJeZfufqiXcUvKCENF3fz4xFyg.jpg");
+    background-size: cover;
+    background-repeat: none;
+    box-sizing: inherit;
+}
+
+.box2 {
+    height: 300px;
+    width: 900px;
+    background-color: transparent;
+    text-indent: 50px;
+    color: black;
+    margin-left: 700px;
+    text-overflow: none;
+    /* border-radius: 50px; */
+    box-shadow: 5px 5px 5px 10px;
+}
+
+nav {
+    background-color: white;
+    font-size: 16px;
+    height: 80px;
+    margin-top: -15px;
+    margin-left: -15px;
+    margin-right: -15px;
+    /* text-align: right; */
+}
+
+a {
+
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.navimg {
+    margin-left: -50px;
+    /* padding-bottom: -15px; */
+    /* margin-top: -0px; */
+    margin-bottom: -40px;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: rgb(236, 236, 243);
+    height: 50px;
+    width: 10pxpx;
+    border-radius: 5px;
+}
+
+.discriptionb1 {
+    /* font-size: 30px; */
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -150px;
+}
+
+.discriptionb2 {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -150px;
+}
+
+.discriptionb3 {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -150px;
+}
+
+.discriptionb4 {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -150px;
+}
+
+.discriptionb5 {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -150px;
+}
+
+.discriptionb6 {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -150px;
+}
+
+.tm {
+    height: 300px;
+    width: 400px;
+    padding-left: 1000px;
+    margin-top: -150px;
+    box-shadow: 5px 5px 5px 10px;
+}
+
+.img2 {
+    height: 300px;
+    width: 400px;
+    margin-left: -500px;
+    margin-top: -140px;
+    box-shadow: 5px 5px 5px 10px;
+}
+
+.heading {
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    bottom: 0;
+    background-color: white;
+    line-height: 20px;
+    padding: 30px;
+}
+
+.footer{
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
